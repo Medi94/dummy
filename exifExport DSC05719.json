@@ -129,7 +129,7 @@
           "directoryName": "Exif IFD0"
         },
         {
-          "description": "2023:08:26 20:07:40",
+          "description": "2023:08:26 19:07:40",
           "tagName": "Date/Time",
           "tagType": 306,
           "tagTypeHex": "0x0132",
@@ -149,9 +149,9 @@
     },
     {
       "name": "Exif SubIFD",
-      "dateOriginal": 1693080460000,
-      "dateDigitized": 1693080460000,
-      "dateModified": 1693080460000,
+      "dateOriginal": 1693076860000,
+      "dateDigitized": 1693076860000,
+      "dateModified": 1693076860000,
       "empty": false,
       "tags": [
         {
@@ -204,14 +204,14 @@
           "directoryName": "Exif SubIFD"
         },
         {
-          "description": "2023:08:26 20:07:40",
+          "description": "2023:08:26 19:07:40",
           "tagName": "Date/Time Original",
           "tagType": 36867,
           "tagTypeHex": "0x9003",
           "directoryName": "Exif SubIFD"
         },
         {
-          "description": "2023:08:26 20:07:40",
+          "description": "2023:08:26 19:07:40",
           "tagName": "Date/Time Digitized",
           "tagType": 36868,
           "tagTypeHex": "0x9004",
@@ -1379,7 +1379,7 @@
         "exif:WhiteBalance": "0",
         "tiff:YCbCrPositioning": "2",
         "xmp:CreateDate": "2023-08-26T20:07:40",
-        "xmp:ModifyDate": "2023-08-26T20:07:40-05:00",
+        "xmp:ModifyDate": "2023-08-26T19:07:40-05:00",
         "exif:GPSVersionID": "2.2.0.0",
         "exifEX:InteroperabilityIndex": "R98",
         "exif:FNumber": "7/2",
@@ -1425,7 +1425,7 @@
         "exif:ExposureMode": "0",
         "exifEX:LensSpecification[3]": "7/2",
         "tiff:XResolution": "350/1",
-        "exif:DateTimeOriginal": "2023-08-26T20:07:40-05:00",
+        "exif:DateTimeOriginal": "2023-08-26T19:07:40-05:00",
         "exif:LightSource": "0",
         "exif:GPSAltitudeRef": "0",
         "tiff:Compression": "6",
@@ -1811,7 +1811,7 @@
                 },
                 {
                   "name": "exif:DateTimeOriginal",
-                  "value": "2023-08-26T20:07:40-05:00",
+                  "value": "2023-08-26T19:07:40-05:00",
                   "options": {
                     "options": 0,
                     "arrayElementsLimit": -1,
@@ -3802,7 +3802,7 @@
                 },
                 {
                   "name": "xmp:ModifyDate",
-                  "value": "2023-08-26T20:07:40-05:00",
+                  "value": "2023-08-26T19:07:40-05:00",
                   "options": {
                     "options": 0,
                     "arrayElementsLimit": -1,
@@ -4042,7 +4042,7 @@
       "empty": false,
       "tags": [
         {
-          "description": "DSC05719 original.JPG",
+          "description": "DSC05719 korrigiert.JPG",
           "tagName": "File Name",
           "tagType": 1,
           "tagTypeHex": "0x0001",
@@ -4056,7 +4056,7 @@
           "directoryName": "File"
         },
         {
-          "description": "Mo. Sept. 25 09:19:41 +02:00 2023",
+          "description": "Mo. Sept. 25 09:19:45 +02:00 2023",
           "tagName": "File Modified Date",
           "tagType": 3,
           "tagTypeHex": "0x0003",
